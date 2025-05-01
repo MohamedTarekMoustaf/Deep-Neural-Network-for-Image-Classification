@@ -5,3 +5,5 @@ In this project, I am building a cat/not-a-cat classifier, I am using the functi
 At this project, I :
 
 Build and train a deep L-layer neural network, and apply it to supervised learning
+
+![image](https://github.com/user-attachments/assets/aa8ece4c-34a7-4b7d-a580-1a5d852c6354)
